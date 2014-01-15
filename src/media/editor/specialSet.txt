@@ -1,0 +1,13 @@
+specialSquare,32,32,0,0
+specialSquare,32,16,1,0
+specialSquare,16,32,2,0
+special_32_32_R,32,32,0,1,slope,right
+special_32_32_L,32,32,1,1,slope,left
+special_16_16_R,16,16,2,1,slope,right
+special_16_16_L,16,16,3,1,slope,left
+special_32_16_R,32,16,0,2,slope,right
+special_32_16_L,32,16,1,2,slope,left
+special_16_32_R,16,32,0,3,slope,right
+special_16_32_L,16,32,1,3,slope,left
+special_16_16_R,8,8,0,4,slope,right
+special_16_16_L,8,8,1,4,slope,left

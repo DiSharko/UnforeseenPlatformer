@@ -1,0 +1,7 @@
+crumble1,32,32,0,0,crumbleBlock,crumble1,500
+streetlight2,32,64,1,0,streetlight2
+entrances/day,32,32,0,1,timedObject,entrances,indoor
+windows1/day,30,44,1,1,timedObject,windows1,indoor
+windows2/day,64,64,2,1,timedObject,windows2,indoor
+windows3/day,32,32,1,1,timedObject,windows3,indoor
+collectible,32,32,2,0,collectible,ITEM NAME

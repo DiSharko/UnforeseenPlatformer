@@ -1,0 +1,13 @@
+door;288;128;32;32;village1a;interact;from_fort1a
+sign;80;256;52;32;c:WINDOWS@nA fatal exception 0E has occurred at  0028:C0011E36 in VXD VMM(01) + 00010E365. The current application will be terminated.
+sign;144;256;52;32;c:Press any key to continue...
+sign;384;256;52;32;c:Press any key to terminate the current application.
+sign;272;384;52;32;c:Press CTRL+ALT+DEL again to restart your computer. You will lose all unsaved information.
+sign;80;448;52;32;c:Press any key to continue...
+sign;176;608;52;32;c:WINDOWS@nA fatal exception 0E has occurred at  0029:C0013E46 in VXD VMM(01) + 01030D366. The current application will be terminated.
+sign;288;608;52;32;c:Press CTRL+ALT+DEL again to restart your computer. You will lose all unsaved information.
+sign;64;704;52;32;c:Press any key to continue...
+sign;144;704;52;32;c:Press any key to terminate the current application.:0
+sign;304;704;52;32;c:Press any key to continue...
+sign;384;704;52;32;c:WINDOWS@nA fatal exception 0E has occurred at  0113:A0011E46 in VXD VMM(01) + 01031D454. The current application will be terminated.
+sign;240;704;32;32;c:It's locked…:d:1

@@ -1,0 +1,4 @@
+default;160;416
+from_village1a_bottom;160;416
+from_village1a_top_left;160;16
+from_village1a_top_right;544;0

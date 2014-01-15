@@ -1,0 +1,4 @@
+door;64;416;32;32;null;interact;null
+sign;160;416;32;32;c:It looks like this level doesn't exist yet.@p  Go back through the door there to keep playing the last level you were on.
+door;288;192;32;32;null,interact;null
+sign;288;384;32;32;c:THAT door?@p  No, you can't get there from here.

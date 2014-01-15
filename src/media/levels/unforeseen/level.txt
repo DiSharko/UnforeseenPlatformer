@@ -1,0 +1,98 @@
+---STARTING NEW SECTION;SETTINGS
+---STARTING NEW SECTION;ENTRANCES
+---STARTING NEW SECTION;CHARACTERS
+---STARTING NEW SECTION;SPECIALS
+special;448;160;32;32
+special;704;192;32;32
+special;704;160;32;32
+special;768;192;32;32
+special;800;192;32;32
+special;832;192;32;32
+special;832;160;32;32
+special;864;224;32;32
+special;896;288;32;32
+special;928;288;32;32
+special;960;288;32;32
+special;992;256;32;32
+special;1024;224;32;32
+special;1056;128;32;32
+special;1088;96;32;32
+special;1152;320;32;32
+special;1184;288;32;32
+special;1280;192;32;32
+special;1248;256;32;32
+special;1280;384;32;32
+special;1088;416;32;32
+special;832;416;32;32
+special;576;448;32;32
+special;608;448;32;32
+special;640;448;32;32
+special;672;448;32;32
+special;672;480;32;32
+special;704;512;32;32
+special;1152;480;32;32
+special;1216;480;32;32
+special;1312;576;32;32
+special;480;288;32;32
+special;448;320;32;32
+special;384;352;32;32
+special;320;352;32;32
+special;352;448;32;32
+special;416;480;32;32
+special;448;448;32;32
+special;544;416;32;32
+special;512;384;32;32
+special;480;512;32;32
+special;512;544;32;32
+special;544;576;32;32
+special;576;576;32;32
+special;608;576;32;32
+special;640;576;32;32
+special;672;640;32;32
+special;704;640;32;32
+special;736;608;32;32
+special;768;576;32;32
+special;800;544;32;32
+special;736;480;32;32
+special;864;576;32;32
+special;896;576;32;32
+special;928;576;32;32
+special;960;576;32;32
+special;992;640;32;32
+special;1024;672;32;32
+special;640;352;32;32
+special;672;352;32;32
+special;704;352;32;32
+special;704;320;32;32
+special;32;160;32;32
+special;64;160;32;32
+special;96;160;32;32
+special;128;160;32;32
+special;160;160;32;32
+special;192;160;32;32
+special;224;160;32;32
+special;256;160;32;32
+special;288;160;32;32
+special;320;160;32;32
+special;544;224;32;32
+special;576;224;32;32
+special;608;224;32;32
+special;640;224;32;32
+special;576;64;32;32
+special;576;96;32;32
+special;576;128;32;32
+special;576;32;32;32
+special;896;448;32;32
+special;928;448;32;32
+special;960;448;32;32
+special;992;448;32;32
+special;1024;448;32;32
+special;960;64;32;32
+special;928;64;32;32
+special;896;64;32;32
+special;864;64;32;32
+---STARTING NEW SECTION;TILES
+---STARTING NEW SECTION;GRAPHICS1
+---STARTING NEW SECTION;GRAPHICS2
+---STARTING NEW SECTION;GRAPHICS3
+---STARTING NEW SECTION;GRAPHICS4

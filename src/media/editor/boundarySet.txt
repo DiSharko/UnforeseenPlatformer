@@ -1,0 +1,4 @@
+scrollBound_left,32,32,0,1,scrollBound,left
+scrollBound_right,32,32,2,1,scrollBound,right
+scrollBound_top,32,32,1,0,scrollBound,top
+scrollBound_bottom,32,32,1,2,scrollBound,bottom

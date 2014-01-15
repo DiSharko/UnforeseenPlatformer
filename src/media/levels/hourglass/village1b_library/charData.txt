@@ -1,0 +1,8 @@
+1;dustball;176;800;32;32;preset:dustball
+1;dustball;896;1376;32;32;preset:dustball
+1;dustball;640;576;32;32;preset:dustball
+1;dustball;128;128;32;32;preset:dustball
+1;dustball;256;128;32;32;preset:dustball
+1;dustball;128;256;32;32;preset:dustball
+1;dustball;736;128;32;32;preset:dustball
+1;dustball;736;256;32;32;preset:dustball

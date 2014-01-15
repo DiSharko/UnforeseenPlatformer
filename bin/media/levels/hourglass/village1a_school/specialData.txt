@@ -1,0 +1,1 @@
+door;160;416;32;32;village1a;interact;from_school_bottom

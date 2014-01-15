@@ -1,0 +1,6 @@
+default;-32;304
+from_cave1a_top;32;80
+from_cave1a_bottom;-32;304
+from_library;1216;944;
+from_house1;-112;800
+from_house2;1440;192

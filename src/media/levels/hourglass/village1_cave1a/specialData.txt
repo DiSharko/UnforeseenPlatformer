@@ -1,0 +1,8 @@
+door;448;736;32;32;village1a;interact;from_cave1a
+door;928;1504;32;32;village1_cave1b;interact;from_cave1a
+door;992;-576;32;32;village1_cave1c;interact;from_cave1a
+door;1920;1024;32;32;village1b;interact;from_cave1a_bottom
+door;1504;-32;32;32;village1b;interact;from_cave1a_top
+openEntrance;448;736;32;32;outdoor
+openEntrance;1920;1024;32;32;outdoor
+openEntrance;1504;-32;32;32;outdoor

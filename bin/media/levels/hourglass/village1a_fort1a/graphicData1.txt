@@ -1,0 +1,5 @@
+null;480;64
+null;0;736
+null;480;736
+null;0;64
+brick_cube;224;256

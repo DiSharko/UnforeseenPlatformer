@@ -1,0 +1,17 @@
+default;-3136;160
+save1;928;784
+from_tower1_bottom;1568;586
+from_tower1_top;1600;48
+from_tower2;2016;592
+from_house1;992;784
+from_house2;-832;288
+from_house3;-1856;256
+from_house4;-2048;240
+from_house5;-2528;512
+from_house6;-3136;160
+from_house7;-3328;192
+from_house8;-544;576
+from_cave1a;2848;288
+from_fort1a;-736;656
+from_fort1b;-448;1344
+from_school_bottom;144;1280

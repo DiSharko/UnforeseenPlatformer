@@ -1,0 +1,2 @@
+door;480;256;32;32;village1b;interact;from_library
+graphicBlock;32;64;928;1344;pink_orange;4

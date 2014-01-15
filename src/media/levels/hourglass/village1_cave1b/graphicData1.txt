@@ -1,0 +1,17 @@
+office_platform;288;192;32;32;
+office_cmcorner_top_right;320;192;32;32;
+office_cmcorner_bottom_left;320;224;32;32;
+office_platform;352;224;32;32;
+office_platform;384;224;32;32;
+office_platform;416;224;32;32;
+office_cmcorner_top_left;256;192;32;32;
+office_cmcorner_bottom_right;256;224;32;32;
+office_platform;224;224;32;32;
+office_platform;192;224;32;32;
+office_platform;160;224;32;32;
+office_platform_left;128;224;32;32;
+office_platform_right;448;224;32;32;
+null;0;0;32;32;
+null;3608;0;32;32;
+null;608;448;32;32;
+null;0;448;32;32;

@@ -1,0 +1,13 @@
+256;192;32;32;true;false;true;false
+320;192;32;32;true;false;false;true
+320;224;32;32;false;true;true;false
+288;192;32;32;true;true;false;false
+352;224;32;32;true;true;false;false
+384;224;32;32;true;true;false;false
+416;224;32;32;true;true;false;false
+448;224;32;32;true;true;false;true
+256;224;32;32;false;true;false;true
+224;224;32;32;true;true;false;false
+192;224;32;32;true;true;false;false
+160;224;32;32;true;true;false;false
+128;224;32;32;true;true;true;false

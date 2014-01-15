@@ -1,0 +1,5 @@
+door;128;384;32;32;village1a;interact;from_house8
+sign;256;288;32;32;c:They're all too hard to read…:q:0
+sign;112;192;32;64;c:So many books!:q:0
+sign;256;160;32;64;c:Nothing looks interesting.:q:0
+sign;64;352;32;64;c:I don't feel like reading any of these.:q:0

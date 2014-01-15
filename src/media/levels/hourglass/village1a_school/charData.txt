@@ -1,0 +1,1 @@
+0;woman1;678;418;26;30;preset:ambler;c:5:How are you today?;c:10:Don't be silly, dear, I can't let you into the tower!;c:15:I'll see you in school on Monday!

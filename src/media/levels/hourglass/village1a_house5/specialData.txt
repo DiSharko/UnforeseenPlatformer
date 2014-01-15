@@ -1,0 +1,2 @@
+door;96;416;32;32;village1a;interact;from_house5
+special;32;256;32;32

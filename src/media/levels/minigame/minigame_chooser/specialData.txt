@@ -1,0 +1,4 @@
+door;64;320;32;32;minigame;interact;easy
+door;544;320;32;32;minigame;interact;hard
+sign;160;416;32;32;c:Easy Mode
+sign;448;416;32;32;c:Hard Mode

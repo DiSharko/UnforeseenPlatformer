@@ -1,0 +1,5 @@
+default;448;736
+from_village1a;448;736
+from_cave1b;544;1472
+from_village1b_top;1504;-32
+from_village1b_bottom;1920;1024

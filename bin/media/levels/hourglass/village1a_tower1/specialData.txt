@@ -1,0 +1,3 @@
+door;64;538;32;38;village1a;interact;from_tower1_bottom
+door;112;-6;16;38;village1a;interact;from_tower1_top
+openEntrance;96;0;32;32;outdoor

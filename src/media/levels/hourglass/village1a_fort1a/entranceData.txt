@@ -1,0 +1,3 @@
+default;288;128
+from_village1a;288;128
+from_fort1b;240;704

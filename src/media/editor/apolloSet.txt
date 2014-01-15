@@ -1,0 +1,10 @@
+apollo_cross_left,32,32,0,0
+apollo_cross_right,32,32,0,1
+apollo_platform_floor,32,32,1,3
+apollo_platform_ceiling,32,32,1,1
+apollo_column_left,32,32,2,2
+apollo_column_right,32,32,0,2
+apollo_corner_bottom_left,32,32,0,5
+apollo_corner_top_right,32,32,1,4
+apollo_corner_bottom_right,32,32,1,5
+apollo_corner_top_left,32,32,0,4

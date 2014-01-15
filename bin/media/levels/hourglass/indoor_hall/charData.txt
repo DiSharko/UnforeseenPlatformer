@@ -1,0 +1,14 @@
+1;crow;104;258;12;14;preset:crow
+1;crow;456;66;12;14;preset:crow
+1;crow;328;162;12;14;preset:crow
+1;crow;648;130;12;14;preset:crow
+1;crow;680;2;12;14;preset:crow
+1;crow;904;-30;12;14;preset:crow
+1;crow;-216;162;12;14;preset:crow
+1;crow;-152;162;12;14;preset:crow
+1;crow;-312;66;12;14;preset:crow
+1;crow;-152;322;12;14;preset:crow
+1;crow;-344;322;12;14;preset:crow
+1;crow;-408;194;12;14;preset:crow
+1;crow;-440;-30;12;14;preset:crow
+1;crow;-568;-94;12;14;preset:crow

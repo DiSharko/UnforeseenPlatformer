@@ -1,0 +1,5 @@
+darkness_transition_top,32,32,1,0
+darkness_transition_bottom,32,32,1,2
+darkness_transition_left,32,32,0,1
+darkness_transition_right,32,32,2,1
+darkness,32,32,1,1

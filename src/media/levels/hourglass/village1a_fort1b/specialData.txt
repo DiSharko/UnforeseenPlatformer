@@ -1,0 +1,2 @@
+door;256;416;32;32;village1a;interact;from_fort1b
+door;-256;-160;32;32;village1a_fort1a;interact;from_fort1b
